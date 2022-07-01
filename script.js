@@ -1,3 +1,5 @@
+alert("Quick free Quotes built by chris, No repeat of quotes in this version, Thousands of quotes!");
+
 let quote = document.getElementById("quote");
 let author = document.getElementById("author");
 let btn = document.getElementById("btn");
